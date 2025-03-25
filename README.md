@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sasho33
+- 👋 Hi, I’m Oleksandr
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning WebDevelopment
+- 🌱 I’m currently learning WebDevelopment in Edinburgh Napier University
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me sasho33@yandex.ru
+- 📫 How to reach me oleksandrsharha@gmail.com
 
 <!---
 sasho33/sasho33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
